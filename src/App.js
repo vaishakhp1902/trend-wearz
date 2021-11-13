@@ -13,7 +13,7 @@ import CheckoutPage from './pages/checkout/checkout.component'
 import { setCurrentUser } from './redux/user/user.actions'
 
 import { auth, createUserProfileDocument } from './firebase/firebase.util'
-import {createStructuredSelector} from 'reselect'
+import { createStructuredSelector } from 'reselect'
 import { selectCurrentUser } from './redux/user/user.selector'
 
 class App extends React.Component {
@@ -69,7 +69,7 @@ class App extends React.Component {
 
 //for redirecting to homepage after sign in
 const mapStateToProps = createStructuredSelector({
-    currentUser: selectCurrentUser
+    currentUser: selectCurrentUser,
 })
 
 const mapDispatchToProps = (dispatch) => ({
