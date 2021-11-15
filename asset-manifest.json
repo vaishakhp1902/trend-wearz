@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trend-wearz/static/css/main.f55d9e84.chunk.css",
+    "main.js": "/trend-wearz/static/js/main.cdcd1169.chunk.js",
+    "main.js.map": "/trend-wearz/static/js/main.cdcd1169.chunk.js.map",
+    "runtime-main.js": "/trend-wearz/static/js/runtime-main.bc37778a.js",
+    "runtime-main.js.map": "/trend-wearz/static/js/runtime-main.bc37778a.js.map",
+    "static/js/2.b74d18d5.chunk.js": "/trend-wearz/static/js/2.b74d18d5.chunk.js",
+    "static/js/2.b74d18d5.chunk.js.map": "/trend-wearz/static/js/2.b74d18d5.chunk.js.map",
+    "index.html": "/trend-wearz/index.html",
+    "static/css/main.f55d9e84.chunk.css.map": "/trend-wearz/static/css/main.f55d9e84.chunk.css.map",
+    "static/js/2.b74d18d5.chunk.js.LICENSE.txt": "/trend-wearz/static/js/2.b74d18d5.chunk.js.LICENSE.txt",
+    "static/media/crown.3a4e2b15.svg": "/trend-wearz/static/media/crown.3a4e2b15.svg",
+    "static/media/shopping-bag.a688874f.svg": "/trend-wearz/static/media/shopping-bag.a688874f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc37778a.js",
+    "static/js/2.b74d18d5.chunk.js",
+    "static/css/main.f55d9e84.chunk.css",
+    "static/js/main.cdcd1169.chunk.js"
+  ]
+}
